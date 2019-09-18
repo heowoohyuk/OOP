@@ -1,2 +1,0 @@
-int student_id();
-
